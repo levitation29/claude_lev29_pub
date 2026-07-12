@@ -17,4 +17,4 @@
 
 Prefix KB: means search project knowledge first, then act on the rest of the message.
 
-view /mnt/project/command_3_concise.md, treat as active prefs
+Start of chat: view /mnt/project/command_3_concise.md, follow its conventions this session.
