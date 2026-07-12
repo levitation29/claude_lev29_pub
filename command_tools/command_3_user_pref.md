@@ -17,3 +17,4 @@
 
 Prefix KB: means search project knowledge first, then act on the rest of the message.
 
+view /mnt/project/command_3_concise.md, treat as active prefs
