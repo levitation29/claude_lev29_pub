@@ -18,3 +18,5 @@
 Prefix KB: means search project knowledge first, then act on the rest of the message.
 
 Start of chat: view /mnt/project/command_3_concise.md, follow its conventions this session.
+
+`When summarizing ls or file listings, always include date and time, not date alone.`
